@@ -1,0 +1,12 @@
+{
+  "name": "NagarikAI - Civic Grievance & Urban Planning",
+  "description": "AI-powered civic grievance platform enabling citizens to report issues in Tamil or English via voice or photo, with autonomous government portal filing, real-time tracking, GIS map, and urban planning analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
